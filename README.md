@@ -32,7 +32,7 @@ A step by step series of examples that tell you have to get a development env ru
 Clone this repository:
 
 ```
-git clone https://github.com/udacity/nd1309/tree/master/course-5/project-6
+git clone https://github.com/margaretycf/nd1309-Project-6b-Blockchain-Supply-Chain-Solution
 ```
 
 Change directory to ```project-6``` folder and install all requisite npm packages (as listed in ```package.json```):
