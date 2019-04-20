@@ -118,6 +118,9 @@ App = {
             App.fetchItemBufferTwo();
             App.fetchEvents();
 
+            var version = web3.version.api;
+            console.log('web3 version:', version);
+
         });
 
         return App.bindEvents();

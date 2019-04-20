@@ -85,6 +85,12 @@ Then run the DApp in browser - http://localhost:3000/
 
 Please make sure you've already installed ganache-cli, Truffle and enabled MetaMask extension in your browser.
 
+## Project Environment
+
+- node version: v10.15.0
+- Truffle version: v4.1.14
+- web3 version: v0.20.3
+
 ## Project Results
 
 ### Deployed Contract Address:
