@@ -6,16 +6,16 @@ I implemented a supply chain Blockchain solution for the [Blockchain Developer N
 
 ## The design UML diagrams of this solution 
 ### Activity Diagram
-![Activity Diagram](diagrams/Activity_Diagram.png)
+![Activity Diagram](../../diagrams/Activity_Diagram.png)
 
 ### Sequence Diagram
-![Sequence Diagram](diagrams/Sequence_Diagram.png)
+![Sequence Diagram](../../diagrams/Sequence_Diagram.png)
 
 ### State Diagram
-![State Diagram](diagrams/State_Diagram.png)
+![State Diagram](../../diagrams/State_Diagram.png)
 
 ### Class Diagram
-![Class Diagram](diagrams/Class_Diagram.png)
+![Class Diagram](../../diagrams/Class_Diagram.png)
 
 ## The implementation has the following subcontracts inheritance structure: 
 ```
