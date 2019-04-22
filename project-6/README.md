@@ -49,7 +49,7 @@ git clone https://github.com/margaretycf/nd1309-Project-6b-Blockchain-Supply-Cha
 
 ### Launch Ganache locally
 ```
-ganache-cli -m "panic vapor cigar advance occur protect pipe know merry clock when gown"
+ganache-cli -m "enroll crazy just label faith garlic derive outer clerk recipe differ winter"
 ```
 
 In a separate terminal window, Compile smart contracts:
@@ -94,14 +94,14 @@ Please make sure you've already installed ganache-cli, Truffle and enabled MetaM
 ## Project Results
 
 ### Deployed Contract Address:
-https://rinkeby.etherscan.io/address/0xec96e53ad9afac5c771c2a581c8317220a50ec1b
+https://rinkeby.etherscan.io/address/0xd0bd4df402345e8f15f9dd0e41112f972d5f6c31
 
 ### Transaction History
-- Harvested - 0x071fb8f5ec2e30e67c7362d3844362ef396c5563a210e3257100ee8f934138eb
-- Processed - 0x6791645e949a4fcb3c46cd057665d72cd6d4bf4aa1337b8eaa7f0937b08b335e
-- Packed - 0xde3c2581a43d180c63a017c260dc40e2a0ccbe022967a9520bda50a9969f3d8d
-- ForSale - 0x279f4ab4ef86bfd838a404226668a5f8bc061a0b94c1f9c3042c6f36919ebb5a
-- Sold - 0xe3213aad629f1578f311f3b4c7a500bbefe1f4dee2505bebc5b678f28e709982
-- Shipped - 0x2fd3b8568ae9ce70655d6cbc9a31ae800aa9af50e68eac0eb7b09b2ca8b5c92d
-- Received - 0xda86613223fcc26f719132145a5f41843f2a274ef079b32546df0c670ffdec60
-- Purchased - 0xd69690c84594571102b2a3c7b44baf35914b36e02be08d8573307fca4a11f7eb
+- Harvested - 0x6388510cd6dd37b0806bf0dae6cc586567e9d8c14bcfea8e7b69effbbf5e3aae
+- Processed - 0x4345b4bfc9e0435e65c9de92ffa89426cc036415bdc487faf7db064cecdc1ee1
+- Packed - 0x6ddf4a36558d34f99bcba94488d0780b26077cf0ed61905e6790ea55c9196333
+- ForSale - 0xeb07e77c4cf9b5688d45b59ee57453e5c8f373c156315ae7cf9f67bfbe588459
+- Sold - 0x1d3bfa6b7e7d1a5289971a5e71ec7fb270028593e5149a0b7d42fe6bbd39ebe6
+- Shipped - 0x6fcc75f7b0bf3cc55441ef05c97bb1401d06560fcad6f1d9e9a875b62fa1be64
+- Received - 0xfbd87887fa7378e8161b27ec3dc4fd505d5d0c3fc29ff3c3c370964f9848c449
+- Purchased - 0x1d9f1de40fa59f37362b1c718890a226ee37378f47fe5d34007ad4ccded4d2f3
